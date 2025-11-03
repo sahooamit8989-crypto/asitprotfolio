@@ -46,21 +46,21 @@ const Contact = () => {
             <li className="flex items-center gap-3">
               <Mail className="w-5 h-5 text-indigo-500" />
               <span className="hover:text-indigo-500 transition duration-200">
-                soumyabaral26@gmail.com
+                asitsahoo2005@gmail.com
               </span>
             </li>
 
             <li className="flex items-center gap-3">
               <Phone className="w-5 h-5 text-indigo-500" />
               <span className="hover:text-indigo-500 transition duration-200">
-                +91-6370264844
+                +91-7849047603
               </span>
             </li>
 
             <li className="flex items-center gap-3">
               <MapPin className="w-5 h-5 text-indigo-500" />
               <span className="hover:text-indigo-500 transition duration-200">
-               Dhenkanal, Odisha
+               Bhadrak, Odisha
               </span>
             </li>
           </ul>
